@@ -1,0 +1,10 @@
+J:\Stuff\source\repos\cubeRace\cubeRace\bin\Debug\cubeRace.exe.config
+J:\Stuff\source\repos\cubeRace\cubeRace\bin\Debug\cubeRace.exe
+J:\Stuff\source\repos\cubeRace\cubeRace\bin\Debug\cubeRace.pdb
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.csproj.AssemblyReference.cache
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.Form1.resources
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.Properties.Resources.resources
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.csproj.GenerateResource.cache
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.csproj.CoreCompileInputs.cache
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.exe
+J:\Stuff\source\repos\cubeRace\cubeRace\obj\Debug\cubeRace.pdb
